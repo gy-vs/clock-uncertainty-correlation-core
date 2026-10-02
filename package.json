@@ -1,0 +1,17 @@
+{
+  "name": "clock-uncertainty-correlation",
+  "version": "0.1.0",
+  "description": "多节点单调时钟/RTT 校准下的带不确定性时间关联内核（库，非命令行工具）",
+  "type": "module",
+  "main": "./src/index.js",
+  "exports": {
+    ".": "./src/index.js"
+  },
+  "scripts": {
+    "test": "node --test test/"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}
