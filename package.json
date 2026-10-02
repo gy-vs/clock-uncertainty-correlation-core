@@ -1,0 +1,11 @@
+{
+  "name": "clock-uncertainty-correlation",
+  "version": "0.1.0",
+  "description": "Multi-node time correlation kernel: versioned, uncertainty-aware ordering and reference-time intervals for distributed event logs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test test/"
+  },
+  "license": "MIT",
+  "private": true
+}
